@@ -8,3 +8,7 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+.coach-box {
+  max-width: 500px;
+  margin-top: 80px;
+}
